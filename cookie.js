@@ -35,4 +35,4 @@ function test(){
             t.coupon ? setCookie("singup_coupon", t.coupon, {
                 expires: 2592e3
             }) : void 0
-        })
+        }
